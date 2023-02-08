@@ -15,11 +15,13 @@ public class ejer1 {
 		if (r>0 && h>0) {
 			System.out.println("Volumen = "+Math.PI*Math.pow(r, 2)*h + " cm3");
 			System.out.println("Surface = "+(2*Math.PI*Math.pow(r, 2)+2*Math.PI*r*h) +" cm2");
+			System.out.println("The program work properly");
 		}
 		else {
+			System.out.println("Erro:");
 			System.out.println("Error a cylinder needs a positive radius and a positive height");
 		}
-		System.out.println("cambiame esta");
+
 	}
 
 
