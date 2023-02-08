@@ -19,6 +19,8 @@ public class ejer1 {
 		else {
 			System.out.println("Error a cylinder needs a positive radius and a positive height");
 		}
+		System.out.println("cambiame esta");
 	}
+
 
 }
